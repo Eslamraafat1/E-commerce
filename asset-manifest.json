@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dfbb5f46.css",
+    "main.js": "./static/js/main.b41bf6e9.js",
+    "static/js/787.4fb5f8c8.chunk.js": "./static/js/787.4fb5f8c8.chunk.js",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/Cart.webp": "./static/media/Cart.4b3c692a9abfcca4f464.webp",
+    "static/media/slider-image-3.jpeg": "./static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "./static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/slider-image-5.png": "./static/media/slider-image-5.009aeddf44bdc15c6619.png",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/EmptyCart.png": "./static/media/EmptyCart.bb7af32fa41981a82d38.png",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "./static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/slider-image-4.jpg": "./static/media/slider-image-4.80544bff18da9fb1af7a.jpg",
+    "static/media/slider-image-3.png": "./static/media/slider-image-3.e9246f1ed167885a8705.png",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/american-express.png": "./static/media/american-express.bb42c22e1716b544df0d.png",
+    "static/media/google-play-badge.svg": "./static/media/google-play-badge.480bfa60a667db43cb4d0e44be409efd.svg",
+    "static/media/freshcart-logo.svg": "./static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/mastercard.svg": "./static/media/mastercard.80a0e4ba69603be8fcc6f72c9479f799.svg",
+    "static/media/app-store-badge.svg": "./static/media/app-store-badge.19243985168fef4beb57daba9fda231e.svg",
+    "static/media/amazon-pay-icon.svg": "./static/media/amazon-pay-icon.81c0a8bacefd07126bfc974f0af9e558.svg",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/paypal-icon.svg": "./static/media/paypal-icon.c45bb4ca3defef3ce144c00421a88841.svg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.dfbb5f46.css.map": "./static/css/main.dfbb5f46.css.map",
+    "main.b41bf6e9.js.map": "./static/js/main.b41bf6e9.js.map",
+    "787.4fb5f8c8.chunk.js.map": "./static/js/787.4fb5f8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbb5f46.css",
+    "static/js/main.b41bf6e9.js"
+  ]
+}
